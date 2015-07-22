@@ -1,8 +1,11 @@
-logs
-target
-/.idea
-/.idea_modules
-/.classpath
-/.project
-/.settings
-/RUNNING_PID
+.idea/
+.gradle
+build/
+*.iml
+# Ignore file for secret config with username/password
+secret.conf
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
