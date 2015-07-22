@@ -4,8 +4,19 @@ A Java library to access Connections in a reactive manner. Is primarily created 
 
 ## Usage
 
+Read in or set up properties, like this:
+
 ```java
-ConnectionsClient client = ConnectionsClient.getInstance();
+Properties properties = new Properties();
+prop.setProperty("connections.server.host", "https://connections.myserver.com");
+prop.setProperty("connections.server.username", "username");
+prop.setProperty("connections.server.password", "password");
+```
+
+Create an instence of the [ConnectionsClient](src/main/java/no/item/play/connections/ConnectionsClient.java), and start calls to it.
+
+```java
+ConnectionsClient client = ConnectionsClient.getInstance(prop);
 Promise<List<Blog>> blogPromise = client.blogs().myBlogs();
 List<Blog> blogs = blogPromise.get();
 ```
@@ -23,4 +34,4 @@ To test the connection to server, you need to supply the system with your creden
  connections.server.password="password"
  ```
 
- 3. Run the [ConnectionsTest](src/test/java/ConnectionsTest.java).testConnection unittest.
+ 3. Run the [ConnectionsTest](src/test/java/no/item/play/connections/ConnectionsTest.java).testConnection unittest.
