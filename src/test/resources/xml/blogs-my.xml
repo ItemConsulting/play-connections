@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<feed xml:lang="en" xml:base="https://teamup.item.no:443/blogs/homepage/api/blogs" xmlns="http://www.w3.org/2005/Atom">
+    <updated>2015-07-20T13:21:41.889Z</updated>
+    <generator version="5.0.0.0" uri="http://www.ibm.com/xmlns/prod/sn">IBM Connections - Blogs</generator>
+    <id>https://teamup.item.no:443/blogs/homepage/api/blogs</id>
+    <title type="text">Tom Arild Jakobsen's Blogs</title>
+    <link href="https://teamup.item.no:443/blogs/homepage/api/blogs" rel="self" type="application/atom+xml"></link>
+    <link href="https://teamup.item.no:443/blogs/roller-ui/rendering/api/roller-ui/myblogs/edit"></link>
+    <app:collection href="https://teamup.item.no:443/blogs/start/api/blogs" xmlns:app="http://www.w3.org/2007/app">
+        <atom:title xmlns:atom="http://www.w3.org/2005/Atom">My Blogs</atom:title>
+        <app:accept>application/atom+xml;type=entry</app:accept>
+        <app:categories fixed="yes"></app:categories>
+    </app:collection>
+    <os:totalResults xmlns:os="http://a9.com/-/spec/opensearch/1.1/">7</os:totalResults>
+    <os:startIndex xmlns:os="http://a9.com/-/spec/opensearch/1.1/">0</os:startIndex>
+    <os:itemsPerPage xmlns:os="http://a9.com/-/spec/opensearch/1.1/">25</os:itemsPerPage>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+        <link href="https://teamup.item.no/blogs/tomtime" rel="alternate" type="text/html"></link>
+        <link href="https://teamup.item.no:443/blogs/homepage/api/blogs/1da533b1-c935-4bed-9781-b9421199dcfa" rel="edit"
+              type="application/atom+xml"></link>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Toms blog</title>
+        <summary type="text"></summary>
+        <updated>2015-07-20T13:21:41.889Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2015-07-20T13:21:41.889Z</app:edited>
+        <published>2015-03-02T12:01:23.747Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">en_US</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">tomtime</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1
+        </snx:rank>
+        <app:control xmlns:app="http://www.w3.org/2007/app">
+            <snx:comments enabled="yes" days="0" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:comments>
+            <snx:emailcomments enabled="disabled" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:emailcomments>
+            <snx:commentmoderated enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:commentmoderated>
+            <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        </app:control>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+            <snx:isExternal xmlns:snx="http://www.ibm.com/xmlns/prod/sn">false</snx:isExternal>
+        </author>
+        <category term="news"></category>
+        <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-da688f60-17d8-481d-a1ac-e00010040e49</id>
+        <link href="https://teamup.item.no/blogs/ung" rel="alternate" type="text/html"></link>
+        <link href="https://teamup.item.no:443/blogs/homepage/api/blogs/da688f60-17d8-481d-a1ac-e00010040e49" rel="edit"
+              type="application/atom+xml"></link>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Forbundet Ung</title>
+        <summary type="text"></summary>
+        <updated>2015-03-04T10:45:41.041Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2015-03-04T10:45:41.041Z</app:edited>
+        <published>2012-09-18T11:42:08.721Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">en_US</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">ung</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1
+        </snx:rank>
+        <app:control xmlns:app="http://www.w3.org/2007/app">
+            <snx:comments enabled="yes" days="0" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:comments>
+            <snx:emailcomments enabled="disabled" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:emailcomments>
+            <snx:commentmoderated enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:commentmoderated>
+            <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        </app:control>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+            <snx:isExternal xmlns:snx="http://www.ibm.com/xmlns/prod/sn">false</snx:isExternal>
+        </author>
+        <category term="ung"></category>
+        <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-fe5e04b7-415d-4a51-a7cc-dbad9935c83d</id>
+        <link href="https://teamup.item.no/blogs/eb451ea3-1860-410d-882d-e8fcd4f7e81a" rel="alternate"
+              type="text/html"></link>
+        <link href="https://teamup.item.no:443/blogs/homepage/api/blogs/fe5e04b7-415d-4a51-a7cc-dbad9935c83d" rel="edit"
+              type="application/atom+xml"></link>
+        <link href="http://teamup.item.no/communities/service/atom/community/instance?communityUuid=eb451ea3-1860-410d-882d-e8fcd4f7e81a"
+              rel="http://www.ibm.com/xmlns/prod/sn/container" type="application/atom+xml"></link>
+        <snx:containertype xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0</snx:containertype>
+        <snx:containerid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">eb451ea3-1860-410d-882d-e8fcd4f7e81a
+        </snx:containerid>
+        <snx:communityUuid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">eb451ea3-1860-410d-882d-e8fcd4f7e81a
+        </snx:communityUuid>
+        <snx:maprole membership="member" xmlns:snx="http://www.ibm.com/xmlns/prod/sn">author</snx:maprole>
+        <category term="private" scheme="http://www.ibm.com/xmlns/prod/sn/flags" label="private"></category>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+            <snx:isExternal xmlns:snx="http://www.ibm.com/xmlns/prod/sn">false</snx:isExternal>
+        </author>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Alere -Afinion</title>
+        <summary type="text"></summary>
+        <updated>2012-12-04T09:11:38.811Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2012-12-04T09:11:38.811Z</app:edited>
+        <published>2012-11-13T09:19:09.873Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">no</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">eb451ea3-1860-410d-882d-e8fcd4f7e81a</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0
+        </snx:rank>
+        <app:control xmlns:app="http://www.w3.org/2007/app">
+            <snx:comments enabled="yes" days="0" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:comments>
+            <snx:emailcomments enabled="disabled" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:emailcomments>
+            <snx:commentmoderated enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:commentmoderated>
+            <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        </app:control>
+        <category term="communityblog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-6e88fa3d-8ad8-411b-8e66-0bdee5ddb8dd</id>
+        <link href="https://teamup.item.no/blogs/6d8f63ce-7ad7-4767-b031-61f6205caa6c" rel="alternate"
+              type="text/html"></link>
+        <link href="https://teamup.item.no:443/blogs/homepage/api/blogs/6e88fa3d-8ad8-411b-8e66-0bdee5ddb8dd" rel="edit"
+              type="application/atom+xml"></link>
+        <link href="http://teamup.item.no/communities/service/atom/community/instance?communityUuid=6d8f63ce-7ad7-4767-b031-61f6205caa6c"
+              rel="http://www.ibm.com/xmlns/prod/sn/container" type="application/atom+xml"></link>
+        <snx:containertype xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0</snx:containertype>
+        <snx:containerid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">6d8f63ce-7ad7-4767-b031-61f6205caa6c
+        </snx:containerid>
+        <snx:communityUuid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">6d8f63ce-7ad7-4767-b031-61f6205caa6c
+        </snx:communityUuid>
+        <snx:maprole membership="member" xmlns:snx="http://www.ibm.com/xmlns/prod/sn">author</snx:maprole>
+        <category term="private" scheme="http://www.ibm.com/xmlns/prod/sn/flags" label="private"></category>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+            <snx:isExternal xmlns:snx="http://www.ibm.com/xmlns/prod/sn">false</snx:isExternal>
+        </author>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Alere - Coagulation</title>
+        <summary type="text"></summary>
+        <updated>2012-11-26T20:27:28.373Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2012-11-26T20:27:28.373Z</app:edited>
+        <published>2012-11-26T20:20:46.936Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">no</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">6d8f63ce-7ad7-4767-b031-61f6205caa6c</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0
+        </snx:rank>
+        <app:control xmlns:app="http://www.w3.org/2007/app">
+            <snx:comments enabled="yes" days="0" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:comments>
+            <snx:emailcomments enabled="disabled" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:emailcomments>
+            <snx:commentmoderated enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:commentmoderated>
+            <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        </app:control>
+        <category term="communityblog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-e3172c8a-2b42-4a32-b105-c055fe250a94</id>
+        <link href="https://teamup.item.no/blogs/1f4d8b6f-932b-4386-a521-742ec502ad17" rel="alternate"
+              type="text/html"></link>
+        <link href="https://teamup.item.no:443/blogs/homepage/api/blogs/e3172c8a-2b42-4a32-b105-c055fe250a94" rel="edit"
+              type="application/atom+xml"></link>
+        <link href="http://teamup.item.no/communities/service/atom/community/instance?communityUuid=1f4d8b6f-932b-4386-a521-742ec502ad17"
+              rel="http://www.ibm.com/xmlns/prod/sn/container" type="application/atom+xml"></link>
+        <snx:containertype xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0</snx:containertype>
+        <snx:containerid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1f4d8b6f-932b-4386-a521-742ec502ad17
+        </snx:containerid>
+        <snx:communityUuid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1f4d8b6f-932b-4386-a521-742ec502ad17
+        </snx:communityUuid>
+        <snx:maprole membership="member" xmlns:snx="http://www.ibm.com/xmlns/prod/sn">author</snx:maprole>
+        <category term="private" scheme="http://www.ibm.com/xmlns/prod/sn/flags" label="private"></category>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+            <snx:isExternal xmlns:snx="http://www.ibm.com/xmlns/prod/sn">false</snx:isExternal>
+        </author>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Alere - NycoCard</title>
+        <summary type="text"></summary>
+        <updated>2012-11-26T20:19:46.983Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2012-11-26T20:19:46.983Z</app:edited>
+        <published>2012-11-26T20:17:41.483Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">no</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1f4d8b6f-932b-4386-a521-742ec502ad17</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0
+        </snx:rank>
+        <app:control xmlns:app="http://www.w3.org/2007/app">
+            <snx:comments enabled="yes" days="0" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:comments>
+            <snx:emailcomments enabled="disabled" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:emailcomments>
+            <snx:commentmoderated enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:commentmoderated>
+            <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        </app:control>
+        <category term="communityblog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-de6ba9f9-b3b7-4f29-869d-9a92fc946414</id>
+        <link href="https://teamup.item.no/blogs/1d6623a1-382d-4d91-8386-776f3aff49c5" rel="alternate"
+              type="text/html"></link>
+        <link href="http://teamup.item.no/communities/service/atom/community/instance?communityUuid=1d6623a1-382d-4d91-8386-776f3aff49c5"
+              rel="http://www.ibm.com/xmlns/prod/sn/container" type="application/atom+xml"></link>
+        <snx:containertype xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0</snx:containertype>
+        <snx:containerid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1d6623a1-382d-4d91-8386-776f3aff49c5
+        </snx:containerid>
+        <snx:communityUuid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1d6623a1-382d-4d91-8386-776f3aff49c5
+        </snx:communityUuid>
+        <snx:maprole membership="member" xmlns:snx="http://www.ibm.com/xmlns/prod/sn">author</snx:maprole>
+        <category term="private" scheme="http://www.ibm.com/xmlns/prod/sn/flags" label="private"></category>
+        <contributor>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+        </contributor>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">Kurs</title>
+        <summary type="text"></summary>
+        <updated>2012-10-25T11:40:35.304Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2012-10-25T11:40:35.304Z</app:edited>
+        <published>2012-08-24T09:04:00.267Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">en_US</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1d6623a1-382d-4d91-8386-776f3aff49c5</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">1
+        </snx:rank>
+        <category term="kurs"></category>
+        <category term="communityblog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+    <entry>
+        <id>urn:lsid:ibm.com:blogs:blog-156b36d9-74d2-4bfb-ab08-bf2062b9156c</id>
+        <link href="https://teamup.item.no/blogs/f0d9220b-6bc0-4ef3-b295-5267b5f3e22a" rel="alternate"
+              type="text/html"></link>
+        <link href="http://teamup.item.no/communities/service/atom/community/instance?communityUuid=f0d9220b-6bc0-4ef3-b295-5267b5f3e22a"
+              rel="http://www.ibm.com/xmlns/prod/sn/container" type="application/atom+xml"></link>
+        <snx:containertype xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0</snx:containertype>
+        <snx:containerid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">f0d9220b-6bc0-4ef3-b295-5267b5f3e22a
+        </snx:containerid>
+        <snx:communityUuid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">f0d9220b-6bc0-4ef3-b295-5267b5f3e22a
+        </snx:communityUuid>
+        <snx:maprole membership="member" xmlns:snx="http://www.ibm.com/xmlns/prod/sn">author</snx:maprole>
+        <category term="private" scheme="http://www.ibm.com/xmlns/prod/sn/flags" label="private"></category>
+        <contributor>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid xmlns:snx="http://www.ibm.com/xmlns/prod/sn">79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState xmlns:snx="http://www.ibm.com/xmlns/prod/sn">active</snx:userState>
+        </contributor>
+        <snx:AllowCoedit enabled="no" xmlns:snx="http://www.ibm.com/xmlns/prod/sn"></snx:AllowCoedit>
+        <title type="text">TariffomrÃ¥de 21</title>
+        <summary type="text"></summary>
+        <updated>2012-10-25T11:39:50.976Z</updated>
+        <app:edited xmlns:app="http://www.w3.org/2007/app">2012-10-25T11:39:50.976Z</app:edited>
+        <published>2012-08-24T08:51:29.704Z</published>
+        <snx:timezone xmlns:snx="http://www.ibm.com/xmlns/prod/sn">Europe/Amsterdam</snx:timezone>
+        <snx:locale xmlns:snx="http://www.ibm.com/xmlns/prod/sn">no</snx:locale>
+        <snx:handle xmlns:snx="http://www.ibm.com/xmlns/prod/sn">f0d9220b-6bc0-4ef3-b295-5267b5f3e22a</snx:handle>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations"
+                  xmlns:snx="http://www.ibm.com/xmlns/prod/sn">0
+        </snx:rank>
+        <category term="tariffomrÃ¥de21"></category>
+        <category term="communityblog" scheme="http://www.ibm.com/xmlns/prod/sn/type"></category>
+    </entry>
+</feed>
