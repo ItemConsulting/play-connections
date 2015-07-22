@@ -7,16 +7,16 @@ A Java library to access Connections in a reactive manner. Is primarily created 
 Read in or set up properties, like this:
 
 ```java
-Properties properties = new Properties();
-properties.setProperty("connections.server.host", "https://connections.myserver.com");
-properties.setProperty("connections.server.username", "username");
-properties.setProperty("connections.server.password", "password");
+Properties prop = new Properties();
+prop.setProperty("connections.server.host", "https://connections.myserver.com");
+prop.setProperty("connections.server.username", "username");
+prop.setProperty("connections.server.password", "password");
 ```
 
 Create an instence of the [ConnectionsClient](src/main/java/no/item/play/connections/ConnectionsClient.java), select the service, and do an operation on it.
 
 ```java
-ConnectionsClient client = ConnectionsClient.getInstance(properties);
+ConnectionsClient client = ConnectionsClient.getInstance(prop);
 Promise<List<Blog>> blogPromise = client.blogs().myBlogs();
 List<Blog> blogs = blogPromise.get();
 ```
