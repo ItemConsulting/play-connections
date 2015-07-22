@@ -17,10 +17,10 @@ To test the connection to server, you need to supply the system with your creden
  1. Create a new file  `src/test/resources/conf/secret.conf`
  2. Add this configuration to the file:
 
-```properties
-connections.server.host="https://connections.myserver.com"
-connections.server.username="username"
-connections.server.password="password"
-```
+ ```properties
+ connections.server.host="https://connections.myserver.com"
+ connections.server.username="username"
+ connections.server.password="password"
+ ```
 
- 3. Run the `ConnectionsTest.testConnection` unit test.
+ 3. Run the [ConnectionsTest](src/test/java/ConnectionsTest.java).testConnection unittest.
