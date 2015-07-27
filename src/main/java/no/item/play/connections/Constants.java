@@ -5,6 +5,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public interface Constants {
+    String PATH_CONNECTIONS_HOMEPAGE = "homepage";
+    String PATH_CONNECTIONS_BLOGS = "blogs";
+    String PATH_CONNECTIONS_ACTIVITIES = "activities";
+
     Map<String, String> NAMESPACES = Collections.unmodifiableMap(new HashMap<String, String>() {{
         put("a", "http://www.w3.org/2005/Atom");
         put("td", "urn:ibm.com/td");

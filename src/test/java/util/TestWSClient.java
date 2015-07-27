@@ -1,7 +1,9 @@
 package util;
 
 
-import no.item.play.connections.clients.BasicClient;
+import no.item.play.connections.clients.ConnectionsWSClient;
+import no.item.play.connections.clients.credentials.BasicCredentials;
+import no.item.play.connections.clients.credentials.Credentials;
 import play.api.libs.ws.WSClientConfig;
 import play.api.libs.ws.ning.NingAsyncHttpClientConfigBuilder;
 import play.api.libs.ws.ning.NingWSClientConfig;
@@ -13,15 +15,14 @@ import play.libs.ws.ning.NingWSClient;
 import scala.concurrent.duration.Duration;
 
 import java.util.concurrent.TimeUnit;
-
-
 public class TestWSClient implements WSClient {
     private WSClient client;
 
     public TestWSClient(String username, String password){
         NingAsyncHttpClientConfigBuilder secureBuilder = new NingAsyncHttpClientConfigBuilder(config());
         NingWSClient ningWSClient = new NingWSClient(secureBuilder.build());
-        client = new BasicClient(username, password, ningWSClient);
+        Credentials credentials = new BasicCredentials(username, password);
+        client = new ConnectionsWSClient(() -> credentials, ningWSClient);
     }
 
     @Override

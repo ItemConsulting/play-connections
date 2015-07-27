@@ -15,10 +15,12 @@ public class TestModule extends AbstractModule {
     @Override
     protected void configure() {
         bindConstant().annotatedWith(ServerUrl.class).to(config.getString("connections.server.host"));
+
         TestWSClient wsClient = new TestWSClient(
                 config.getString("connections.server.username"),
                 config.getString("connections.server.password")
         );
+
         bind(WSClient.class).toInstance(wsClient);
     }
 }
