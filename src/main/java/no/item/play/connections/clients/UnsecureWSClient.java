@@ -1,8 +1,5 @@
-package util;
+package no.item.play.connections.clients;
 
-
-import no.item.play.connections.clients.ConnectionsWSClient;
-import no.item.play.connections.clients.credentials.BasicCredentials;
 import no.item.play.connections.clients.credentials.Credentials;
 import play.api.libs.ws.WSClientConfig;
 import play.api.libs.ws.ning.NingAsyncHttpClientConfigBuilder;
@@ -10,34 +7,21 @@ import play.api.libs.ws.ning.NingWSClientConfig;
 import play.api.libs.ws.ning.NingWSClientConfigFactory;
 import play.api.libs.ws.ssl.SSLConfigFactory;
 import play.libs.ws.WSClient;
-import play.libs.ws.WSRequest;
 import play.libs.ws.ning.NingWSClient;
 import scala.concurrent.duration.Duration;
 
+import javax.inject.Inject;
+import javax.inject.Provider;
 import java.util.concurrent.TimeUnit;
-public class TestWSClient implements WSClient {
-    private WSClient client;
+public class UnsecureWSClient extends ConnectionsWSClient {
+    @Inject
+    public UnsecureWSClient(Provider<Credentials> credentials){
+        super(credentials, client());
+    }
 
-    public TestWSClient(String username, String password){
+    private static WSClient client(){
         NingAsyncHttpClientConfigBuilder secureBuilder = new NingAsyncHttpClientConfigBuilder(config());
-        NingWSClient ningWSClient = new NingWSClient(secureBuilder.build());
-        Credentials credentials = new BasicCredentials(username, password);
-        client = new ConnectionsWSClient(() -> credentials, ningWSClient);
-    }
-
-    @Override
-    public Object getUnderlying() {
-        return client;
-    }
-
-    @Override
-    public WSRequest url(String url) {
-        return client.url(url);
-    }
-
-    @Override
-    public void close() {
-        client.close();
+        return new NingWSClient(secureBuilder.build());
     }
 
     /**

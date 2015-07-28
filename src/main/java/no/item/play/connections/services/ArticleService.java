@@ -1,6 +1,7 @@
 package no.item.play.connections.services;
 
 import com.google.inject.name.Named;
+import com.nerdforge.xml.parsers.ArrayParser;
 import com.nerdforge.xml.parsers.Parser;
 import no.item.play.connections.annotations.ServerUrl;
 import no.item.play.connections.clients.ConnectionsWSClient;
@@ -13,10 +14,10 @@ import java.util.List;
 public class ArticleService extends AbstractService {
     private ConnectionsWSClient client;
     private String serverUrl;
-    private Parser parser;
+    private ArrayParser parser;
 
     @Inject
-    public ArticleService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("articles") Parser parser){
+    public ArticleService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("articles") ArrayParser parser){
         this.client = client;
         this.serverUrl = serverUrl;
         this.parser = parser;
@@ -24,8 +25,7 @@ public class ArticleService extends AbstractService {
 
     public Promise<List<Article>> list(String blogHandle){
         return client.url(serverUrl, PATH_CONNECTIONS_BLOGS, blogHandle, "/feed/entries/atom").get()
-                .map(validateAndParse(parser))
-                .map(json -> toList(json, Article.class));
+                .map(validateAndParseArray(parser, Article.class));
     }
 
     public Promise<Article> create(String blogHandle, Article article){

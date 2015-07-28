@@ -8,6 +8,6 @@ public class Paths {
     }
 
     public static String stripMultipleSlases(String url){
-        return url.replaceAll("\\/\\/+", "/");
+        return url.replaceAll("([^:])\\/{2}", "$1/") ;// remove two slashes
     }
 }

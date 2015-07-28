@@ -1,8 +1,10 @@
 package no.item.play.connections.services;
+import com.nerdforge.xml.parsers.ArrayParser;
 import com.nerdforge.xml.parsers.Parser;
 import no.item.play.connections.annotations.ServerUrl;
 import no.item.play.connections.clients.ConnectionsWSClient;
 import no.item.play.connections.models.Blog;
+import no.item.play.connections.utils.Paths;
 import play.libs.F.Promise;
 
 import javax.inject.Inject;
@@ -37,19 +39,20 @@ import java.util.List;
 public class BlogService extends AbstractService {
     private ConnectionsWSClient client;
     private String serverUrl;
-    private Parser parser;
+    private ArrayParser parser;
 
     @Inject
-    public BlogService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("blogs") Parser parser){
+    public BlogService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("blogs") ArrayParser parser){
         this.client = client;
         this.serverUrl = serverUrl;
         this.parser = parser;
     }
 
     public Promise<List<Blog>> myBlogs(){
-        return client.url(serverUrl, PATH_CONNECTIONS_BLOGS, PATH_CONNECTIONS_HOMEPAGE, "/api/blogs").get()
-                .map(validateAndParse(parser))
-                .map(json -> toList(json, Blog.class));
+        String url = Paths.combineToUrl(serverUrl, PATH_CONNECTIONS_BLOGS, PATH_CONNECTIONS_HOMEPAGE, "/api/blogs");
+
+        return client.url(url).get()
+                .map(validateAndParseArray(parser, Blog.class));
     }
 
     public Promise<Blog> byId(){

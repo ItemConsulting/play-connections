@@ -16,8 +16,8 @@ public interface Constants {
         put("snx", "http://www.ibm.com/xmlns/prod/sn");
         put("type", "http://www.ibm.com/xmlns/prod/sn/type");
         put("source", "http://www.ibm.com/xmlns/prod/sn/source");
-        put("source", "http://www.ibm.com/xmlns/prod/sn/resource-type");
-        put("source", "http://www.ibm.com/xmlns/prod/sn/resource-id");
+        //put("source", "http://www.ibm.com/xmlns/prod/sn/resource-type");
+        //put("source", "http://www.ibm.com/xmlns/prod/sn/resource-id");
         put("container", "http://www.ibm.com/xmlns/prod/sn/container");
         put("priority", "http://www.ibm.com/xmlns/prod/sn/priority");
         put("flags", "http://www.ibm.com/xmlns/prod/sn/flags");
@@ -38,7 +38,7 @@ public interface Constants {
         put("cmis", "http://docs.oasis-open.org/ns/cmis/core/200908/");
         put("opensocial", "http://ns.opensocial.org/2008/opensocial");
         put("tag", "tag:ibm.com,2006:td/type");
-        put("tag", "tag:profiles.ibm.com,2006:entry");
+        //put("tag", "tag:profiles.ibm.com,2006:entry");
         put("scheme", "http://www.ibm.com/xmlns/prod/sn/type");
         put("xmlns", "http://www.w3.org/2000/xmlns/");
         put("rel", "http://www.ibm.com/xmlns/prod/sn/parentcommunity");
