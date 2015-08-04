@@ -4,7 +4,7 @@ apply plugin: 'maven'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-version = '0.0.1-SNAPSHOT'
+version = '0.0.5-SNAPSHOT'
 group   = 'no.item.play'
 
 repositories {
@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    compile group: 'com.nerdforge.xml', name: 'xml-json-mapper', version: '0.5.3-SNAPSHOT'
+    compile group: 'com.nerdforge.xml', name: 'xml-json-mapper', version: '0.5.6-SNAPSHOT'
     compile group: 'com.typesafe.play', name: 'play-java-ws_2.11', version: '2.4.2'
     compile group: 'com.ibm.sbt', name: 'com.ibm.sbt.core', version: '1.1.5.20150520-1200'
     testCompile group: 'junit', name: 'junit', version: '4.11'

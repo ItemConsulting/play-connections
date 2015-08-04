@@ -12,8 +12,11 @@ public class Todo {
     public final String description;
     public final LocalDateTime date;
 
-    public Todo(@JsonProperty("id") String id, @JsonProperty("person") Person person, @JsonProperty("name") String name,
-                @JsonProperty("description") String description, @JsonProperty("date") LocalDateTime date) {
+    public Todo(@JsonProperty("id") String id,
+                @JsonProperty("person") Person person,
+                @JsonProperty("name") String name,
+                @JsonProperty("description") String description,
+                @JsonProperty("date") LocalDateTime date) {
         this.id = id;
         this.person = person;
         this.name = name;

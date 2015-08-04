@@ -44,5 +44,9 @@ public interface Constants {
         put("rel", "http://www.ibm.com/xmlns/prod/sn/parentcommunity");
         put("component", "http://www.ibm.com/xmlns/prod/sn/communities");
     }});
+
+    default String xpathRank(String type){
+        return String.format("snx:rank[@scheme='http://www.ibm.com/xmlns/prod/sn/%s']", type);
+    }
 }
 

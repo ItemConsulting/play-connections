@@ -1,18 +1,24 @@
 package no.item.play.connections.services;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.nerdforge.xml.parsers.ArrayParser;
 import com.nerdforge.xml.parsers.Parser;
+import no.item.play.connections.WSException;
 import no.item.play.connections.annotations.ServerUrl;
 import no.item.play.connections.clients.ConnectionsWSClient;
 import no.item.play.connections.models.Blog;
 import no.item.play.connections.utils.Paths;
 import play.libs.F.Promise;
+import play.mvc.Http;
 
 import javax.inject.Inject;
 import javax.inject.Named;
 import javax.inject.Singleton;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
+import java.util.Optional;
 
-/**
+/*
  * Service urls
  * ALL_BLOGS -> blogs/homepage/feed/blogs/atom
  * MY_BLOGS -> blogs/homepage/api/blogs
@@ -36,7 +42,7 @@ import java.util.List;
  * RECOMMEND_POST -> blogs/homepage/api/recommend/entries/handle
  */
 @Singleton
-public class BlogService extends AbstractService {
+public class BlogService extends AbstractService implements Http.Status {
     private ConnectionsWSClient client;
     private String serverUrl;
     private ArrayParser parser;
@@ -49,14 +55,26 @@ public class BlogService extends AbstractService {
     }
 
     public Promise<List<Blog>> myBlogs(){
-        String url = Paths.combineToUrl(serverUrl, PATH_CONNECTIONS_BLOGS, PATH_CONNECTIONS_HOMEPAGE, "/api/blogs");
-
-        return client.url(url).get()
-                .map(validateAndParseArray(parser, Blog.class));
+        return client.url(serverUrl, PATH_CONNECTIONS_BLOGS, PATH_CONNECTIONS_HOMEPAGE, "/api/blogs")
+                .setQueryParameter("lang", "en")
+                .get().map(validateAndParseArray(parser));
     }
 
-    public Promise<Blog> byId(){
-        // todo do search
-        return null;
+    public Promise<Blog> byId(String id){
+        return myBlogs()
+                .map(blogs -> test(blogs, id));
+    }
+
+    private Blog test(List<Blog> blogs, String id){
+        Optional<Blog> blog =  blogs.stream()
+                .filter(entry -> Objects.equals(entry.id, id))
+                .findFirst();
+
+        return blog.orElseThrow(() -> new WSException(NOT_FOUND, "No blog was found"));
+    }
+
+    @Override
+    protected TypeReference<List<Blog>> typeref(){
+        return new TypeReference<List<Blog>>() {};
     }
 }

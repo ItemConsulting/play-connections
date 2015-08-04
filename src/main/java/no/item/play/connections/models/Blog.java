@@ -11,7 +11,10 @@ public class Blog {
     public final Optional<Person> author;
 
     @JsonCreator
-    public Blog(@JsonProperty("id") String id, @JsonProperty("handle") String handle, @JsonProperty("title") String title, @JsonProperty("author") Optional<Person> author){
+    public Blog(@JsonProperty("id") String id,
+                @JsonProperty("handle") String handle,
+                @JsonProperty("title") String title,
+                @JsonProperty("author") Optional<Person> author){
         this.id = id;
         this.handle = handle;
         this.title = title;

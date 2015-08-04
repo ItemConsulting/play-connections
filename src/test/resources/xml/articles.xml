@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="https://teamup.item.no/blogs/roller-ui/styles/atom.xsl" media="screen"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:app="http://www.w3.org/2007/app"
+      xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xmlns:snx="http://www.ibm.com/xmlns/prod/sn"
+      xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/"
+      xml:lang="en-US">
+    <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+    <title type="text">Toms blog</title>
+    <subtitle type="html"> </subtitle>
+    <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+    <link rel="edit" href="https://teamup.item.no/blogs/start/api/blogs/1da533b1-c935-4bed-9781-b9421199dcfa?lang=en" type="application/atom+xml"></link>
+    <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime?lang=en" />
+    <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/comments/atom?lang=en" />
+    <link rel="media" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/media/atom?lang=en" />
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>30</opensearch:itemsPerPage>
+    <link rel="first" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+    <link rel="next" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?ps=30&amp;page=1&amp;lang=en" />
+    <opensearch:totalResults>52</opensearch:totalResults>
+    <app:categories href="https://teamup.item.no/blogs/tomtime/feed/tags/atom?lang=en"/>
+    <updated>2015-07-20T15:21:41+02:00</updated>
+    <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+    <generator uri="http://www.ibm.com/xmlns/prod/sn" version="5.0.0.0">IBM Connections - Blogs</generator>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Ettersp%C3%B8rselen_har_kommet_br%C3%A5tt_p%C3%A5" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-5d05dd6a-dc66-4d1e-8428-865f818cf799</id>
+        <title type="text">– Etterspørselen har kommet brått på</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Ettersp%C3%B8rselen_har_kommet_br%C3%A5tt_p%C3%A5?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=5d05dd6a-dc66-4d1e-8428-865f818cf799&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Ettersp%C3%B8rselen_har_kommet_br%C3%A5tt_p%C3%A5/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/5d05dd6a-dc66-4d1e-8428-865f818cf799/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/5d05dd6a-dc66-4d1e-8428-865f818cf799?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/5d05dd6a-dc66-4d1e-8428-865f818cf799?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:41+02:00</published>
+        <updated>2015-07-20T15:21:41+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-df9eeeb2&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=297,94,467,298;w=308;h=197;62916.jpg&quot; alt=&quot;Brygghus må den daglige lederen gjøre store deler av jobben selv. – 80 prosent av prosessen er vasking, sier Christer Edvartsen. FOTO: HERMUND LYBECK KJERNLI / NRK&quot; title=&quot;Foto: HERMUND LYBECK KJERNLI / NRK &quot; width=&quot;308&quot; height=&quot;197&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850&quot;&gt;– Etterspørselen har &lt;br&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;kommet brått på&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Mikrobryggerier i medvind.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Etterspørselen har kommet brått på Mikrobryggerier i medvind. http://www.nrk.no/ostfold/mikrobryggerier-i-stadig-medvind-1.12461850 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Vi_er_ikke_flinke_nok_til_%C3%A5_bruke_solbriller" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-e550875f-95ca-47ea-bec0-d1515f64c747</id>
+        <title type="text">– Vi er ikke flinke nok til å bruke solbriller</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Vi_er_ikke_flinke_nok_til_%C3%A5_bruke_solbriller?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=e550875f-95ca-47ea-bec0-d1515f64c747&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Vi_er_ikke_flinke_nok_til_%C3%A5_bruke_solbriller/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/e550875f-95ca-47ea-bec0-d1515f64c747/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/e550875f-95ca-47ea-bec0-d1515f64c747?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/e550875f-95ca-47ea-bec0-d1515f64c747?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:41+02:00</published>
+        <updated>2015-07-20T15:21:41+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-kbe57740&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 640px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=3,116,947,374;w=638;h=252;62845.jpg&quot; alt=&quot; &quot; title=&quot;Foto: ALEXANDER FREDRIKSEN / NRK &quot; width=&quot;638&quot; height=&quot;252&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 54px;&quot;&gt;&lt;a href=&quot;http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194&quot;&gt;&lt;strong&gt;– Vi er ikke flinke nok til &lt;span style=&quot;font-size: 76px;&quot;&gt;å bruke solbriller&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194&quot; itemprop=&quot;wsUrl&quot;&gt;http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Vi er ikke flinke nok til å bruke solbriller http://nrk.no/livsstil/_-vi-er-ikke-flinke-nok-til-a-bruke-solbriller-1.12447194 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Grensevaktene_lurte_veldig_p%C3%A5_hva_jeg_drev_med" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-0bee4a76-8112-42cb-b630-63a66b1871ba</id>
+        <title type="text">– Grensevaktene lurte veldig på hva jeg drev med</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Grensevaktene_lurte_veldig_p%C3%A5_hva_jeg_drev_med?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=0bee4a76-8112-42cb-b630-63a66b1871ba&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Grensevaktene_lurte_veldig_p%C3%A5_hva_jeg_drev_med/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/0bee4a76-8112-42cb-b630-63a66b1871ba/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/0bee4a76-8112-42cb-b630-63a66b1871ba?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/0bee4a76-8112-42cb-b630-63a66b1871ba?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:40+02:00</published>
+        <updated>2015-07-20T15:21:40+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-j48528ef&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container df-img-skin-Se-Video&quot; style=&quot;width: 640px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=5,112,833,291;w=638;h=223;62907.jpg&quot; alt=&quot;Jana Winderen bruker avansert opptaksutstyr for å fange lydene vi aldri hører. For eksempel lyden av fisk som snakker sammen, is som smelter og alt bråket vi selv lager under vann. FOTO: FINNBOGI PETURSSON&quot; title=&quot;Foto: FINNBOGI PETURSSON &quot; width=&quot;638&quot; height=&quot;223&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 41px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649&quot;&gt;– Grensevaktene lurte veldig på &lt;br&gt;&lt;span style=&quot;font-size: 75px;&quot;&gt;hva jeg drev med&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Fanger lyden av den norsk-russiske grensen. &lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Grensevaktene lurte veldig på hva jeg drev med Fanger lyden av den norsk-russiske grensen.  http://www.nrk.no/finnmark/_-grensevaktene-lurte-veldig-pa-hva-jeg-drev-med-1.12457649 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/IS_tvang_born_til_%C3%A5_l%C3%A6re_halshogging" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-edc5ce0b-a1f4-42e0-8b09-f036361c4b8c</id>
+        <title type="text">– IS tvang born til å lære halshogging</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/IS_tvang_born_til_%C3%A5_l%C3%A6re_halshogging?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=edc5ce0b-a1f4-42e0-8b09-f036361c4b8c&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/IS_tvang_born_til_%C3%A5_l%C3%A6re_halshogging/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/edc5ce0b-a1f4-42e0-8b09-f036361c4b8c/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/edc5ce0b-a1f4-42e0-8b09-f036361c4b8c?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/edc5ce0b-a1f4-42e0-8b09-f036361c4b8c?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:40+02:00</published>
+        <updated>2015-07-20T15:21:40+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-c7544d13&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914&quot;&gt;&lt;img alt=&quot;IS-krigarar med dødsdømde fangar.&quot; src=&quot;http://gfx.nrk.no/front/2015/07/19/c=0,5,402,286;w=308;h=219;62915.jpg&quot; width=&quot;308&quot; height=&quot;219&quot; title=&quot;Foto: REUTERS TV / Reuters &quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;a href=&quot;http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;– IS tvang born til å&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;lære halshogging&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – IS tvang born til å lære halshogging http://www.nrk.no/verden/--is-tvang-born-til-a-laere-halshogging-1.12463914 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Utestengt_fra_Touren_etter_flaskekasting" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-f40fd992-07e1-4077-aec6-cf3a419d79ec</id>
+        <title type="text">Utestengt fra Touren etter flaskekasting</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Utestengt_fra_Touren_etter_flaskekasting?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=f40fd992-07e1-4077-aec6-cf3a419d79ec&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Utestengt_fra_Touren_etter_flaskekasting/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/f40fd992-07e1-4077-aec6-cf3a419d79ec/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/f40fd992-07e1-4077-aec6-cf3a419d79ec?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/f40fd992-07e1-4077-aec6-cf3a419d79ec?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:40+02:00</published>
+        <updated>2015-07-20T15:21:40+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-obaa06cc&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=242,74,737,459;w=308;h=192;62912.jpg&quot; alt=&quot;Sportsdirektør i Team Sky, Sean Yates, blir straffet pga. at en Tinkoff-mekaniker kastet en flaske mot en motorsykkel. FOTO: ANDERS ROVE BENTSEN / NRK&quot; title=&quot;Foto: ANDERS ROVE BENTSEN / NRK &quot; width=&quot;308&quot; height=&quot;192&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;a href=&quot;http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Utestengt fra Touren etter &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;flaskekasting&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+            &lt;p&gt;Sportsdirektør i Tinkoff-Saxo.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Utestengt fra Touren etter flaskekasting Sportsdirektør i Tinkoff-Saxo. http://www.nrk.no/sport/tinkoff-saxo-direktor-utestengt-etter-flaskekasting-1.12463966 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Hoseth_p%C3%A5_vei_til_Kristiansund" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-12cb06f6-b6ca-4d1e-ade6-107d291c907a</id>
+        <title type="text">– Hoseth på vei til Kristiansund</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Hoseth_p%C3%A5_vei_til_Kristiansund?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=12cb06f6-b6ca-4d1e-ade6-107d291c907a&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Hoseth_p%C3%A5_vei_til_Kristiansund/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/12cb06f6-b6ca-4d1e-ade6-107d291c907a/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/12cb06f6-b6ca-4d1e-ade6-107d291c907a?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/12cb06f6-b6ca-4d1e-ade6-107d291c907a?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:39+02:00</published>
+        <updated>2015-07-20T15:21:39+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-f5729203&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=212,101,577,378;w=308;h=202;62919.jpg&quot; alt=&quot;FOTO: GRØTT, VEGARD WIVESTAD / NTB SCANPIX&quot; title=&quot;Foto: FOTO: GRØTT, VEGARD WIVESTAD / NTB SCANPIX &quot; width=&quot;308&quot; height=&quot;202&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;a href=&quot;http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985&quot;&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;– Hoseth på vei til &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Kristiansund&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Hoseth på vei til Kristiansund http://www.nrk.no/sport/_-hoseth-pa-vei-til-kristiansund-1.12463985 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Nekter_%C3%A5_utf%C3%B8re_rituell_omskj%C3%A6ring" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-41d76e4b-8cd7-4141-bf3d-6b528ceb2a3d</id>
+        <title type="text">Nekter å utføre rituell omskjæring</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Nekter_%C3%A5_utf%C3%B8re_rituell_omskj%C3%A6ring?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=41d76e4b-8cd7-4141-bf3d-6b528ceb2a3d&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Nekter_%C3%A5_utf%C3%B8re_rituell_omskj%C3%A6ring/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/41d76e4b-8cd7-4141-bf3d-6b528ceb2a3d/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/41d76e4b-8cd7-4141-bf3d-6b528ceb2a3d?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/41d76e4b-8cd7-4141-bf3d-6b528ceb2a3d?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:39+02:00</published>
+        <updated>2015-07-20T15:21:39+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-df228af6&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045&quot;&gt;&lt;img alt=&quot;Universitetssykehuset Nord-Norge&quot; src=&quot;http://gfx.nrk.no/front/2015/07/20/c=242,214,358,110;w=308;h=95;62926.jpg&quot; width=&quot;308&quot; height=&quot;95&quot; title=&quot;Foto: Bertinussen, Rune Stoltz / NTB scanpix &quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045&quot;&gt;Nekter å utføre rituell &lt;br&gt;&lt;span style=&quot;font-size: 52px;&quot;&gt;omskjæring&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Nekter å utføre rituell omskjæring http://www.nrk.no/norge/sykehusleger-i-nord-nekter-utfore-rituell-omskjaering-1.12464045 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Burger_King_vaskefirma_stevnet_for_grov_underbetaling" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-d0d85b3b-e0f4-475c-bcdd-798015fd2ce9</id>
+        <title type="text">Burger King-vaskefirma stevnet for grov underbetaling</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Burger_King_vaskefirma_stevnet_for_grov_underbetaling?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=d0d85b3b-e0f4-475c-bcdd-798015fd2ce9&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Burger_King_vaskefirma_stevnet_for_grov_underbetaling/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/d0d85b3b-e0f4-475c-bcdd-798015fd2ce9/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/d0d85b3b-e0f4-475c-bcdd-798015fd2ce9?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/d0d85b3b-e0f4-475c-bcdd-798015fd2ce9?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:39+02:00</published>
+        <updated>2015-07-20T15:21:39+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d7c951cd&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=226,2744,2674,1641;w=308;h=189;62925.jpg&quot; alt=&quot;Kø på Burger King (Foto: NTB Scanpix)&quot; title=&quot;Foto: NTB Scanpix &quot; width=&quot;308&quot; height=&quot;189&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028&quot;&gt;Burger King-vaskefirma &lt;br&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;stevnet for grov &lt;br&gt;&lt;span style=&quot;font-size: 45px;&quot;&gt;underbetaling&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Burger King-vaskefirma stevnet for grov underbetaling http://www.nrk.no/norge/burger-king-vaskefirma-stevnet-for-grov-underbetaling-1.12464028 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Kongressen_skal_vurdere_atomavtalen_med_Iran" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-0abd1e45-15a0-4dd4-81d8-d9cd23f7b63d</id>
+        <title type="text">Kongressen skal vurdere atomavtalen med Iran</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Kongressen_skal_vurdere_atomavtalen_med_Iran?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=0abd1e45-15a0-4dd4-81d8-d9cd23f7b63d&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Kongressen_skal_vurdere_atomavtalen_med_Iran/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/0abd1e45-15a0-4dd4-81d8-d9cd23f7b63d/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/0abd1e45-15a0-4dd4-81d8-d9cd23f7b63d?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/0abd1e45-15a0-4dd4-81d8-d9cd23f7b63d?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:38+02:00</published>
+        <updated>2015-07-20T15:21:38+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d888c70a&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/14/c=472,808,3232,2246;w=308;h=214;62183.jpg&quot; alt=&quot;High Representative of the European Union for Foreign Affairs and Security Policy Federica Mogherini and Iranian Foreign Minister Mohammad Javad Zarif (R) react during a plenary session at the United Nations building in Vienna, Austria July 14, 2015. Iran and six major world powers reached a nuclear deal on Tuesday, capping more than a decade of on-off negotiations with an agreement that could potentially transform the Middle East, and which Israel called an &amp;#34;historic surrender&amp;#34;. REUTERS/Leonhard Foeger&quot; title=&quot;Foto: LEONHARD FOEGER &quot; width=&quot;308&quot; height=&quot;214&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058&quot;&gt;Kongressen skal vurdere &lt;br&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;atomavtalen med Iran&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Kongressen skal vurdere atomavtalen med Iran http://www.nrk.no/verden/kongressen-skal-vurdere-iran-avtalen-1.12464058 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Au_pair_ordningenb%C3%B8r_avvikles" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-2114c352-911c-4d59-afa4-f264b5e0acf3</id>
+        <title type="text">– Au pair-ordningenbør avvikles</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Au_pair_ordningenb%C3%B8r_avvikles?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=2114c352-911c-4d59-afa4-f264b5e0acf3&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Au_pair_ordningenb%C3%B8r_avvikles/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/2114c352-911c-4d59-afa4-f264b5e0acf3/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/2114c352-911c-4d59-afa4-f264b5e0acf3?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/2114c352-911c-4d59-afa4-f264b5e0acf3?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:38+02:00</published>
+        <updated>2015-07-20T15:21:38+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-e01b8845&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=3594,850,1416,873;w=308;h=190;62924.jpg&quot; alt=&quot;Marit Arnstad (Foto: NTB Scanpix)&quot; title=&quot;Foto: NTB Scanpix &quot; width=&quot;308&quot; height=&quot;190&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023&quot;&gt;– Au pair-ordningen&lt;br&gt;&lt;span style=&quot;font-size: 51px;&quot;&gt;bør avvikles&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Au pair-ordningen bør avvikles http://www.nrk.no/norge/sp-vil-avvikle-au-pair-ordningen-1.12464023 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Har_%C3%B8vd_i_to_%C3%A5r_p%C3%A5_dette" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-d05b20df-52de-4117-a049-b4b2a20330af</id>
+        <title type="text">Har øvd i to år på dette</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Har_%C3%B8vd_i_to_%C3%A5r_p%C3%A5_dette?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=d05b20df-52de-4117-a049-b4b2a20330af&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Har_%C3%B8vd_i_to_%C3%A5r_p%C3%A5_dette/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/d05b20df-52de-4117-a049-b4b2a20330af/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/d05b20df-52de-4117-a049-b4b2a20330af?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/d05b20df-52de-4117-a049-b4b2a20330af?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:38+02:00</published>
+        <updated>2015-07-20T15:21:38+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-w327a4ca&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container df-img-skin-Se-Video&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=453,252,674,812;w=308;h=371;62909.jpg&quot; alt=&quot; &quot; title=&quot;Foto:  &quot; width=&quot;308&quot; height=&quot;371&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434&quot;&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;span style=&quot;font-size: 45px;&quot;&gt;Har øvd i to år &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 76px;&quot;&gt;på dette&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Nå vil Sondre (16) bli verdensmester.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Har øvd i to år på dette Nå vil Sondre (16) bli verdensmester. http://www.nrk.no/hordaland/_-na-vil-jeg-bli-verdensmester-1.12463434 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Voldsofre_flytter_tilbake_til_overgriper" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-4cab4d63-b88f-4eb0-aedf-c5714170feda</id>
+        <title type="text">– Voldsofre flytter tilbake til overgriper</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Voldsofre_flytter_tilbake_til_overgriper?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=4cab4d63-b88f-4eb0-aedf-c5714170feda&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Voldsofre_flytter_tilbake_til_overgriper/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/4cab4d63-b88f-4eb0-aedf-c5714170feda/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/4cab4d63-b88f-4eb0-aedf-c5714170feda?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/4cab4d63-b88f-4eb0-aedf-c5714170feda?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:37+02:00</published>
+        <updated>2015-07-20T15:21:37+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d717d9a0&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759&quot;&gt;&lt;img alt=&quot;Angst Illustrasjonsfoto:Scanpix&quot; src=&quot;http://gfx.nrk.no/front/2015/07/20/c=116,35,436,358;w=308;h=253;62929.jpg&quot; width=&quot;308&quot; height=&quot;253&quot; title=&quot;Foto: Johannessen, Sara / SCANPIX &quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759&quot;&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;– Voldsofre flytter &lt;/span&gt;&lt;br&gt;tilbake til overgriper&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Voldsofre flytter tilbake til overgriper http://www.nrk.no/ostlandssendingen/_-voldsofre-flytter-tilbake-til-overgriper-1.12463759 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Jeg_snudde_meg_vekk_fra_kassa_s%C3%A5_ringte_sjefen" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-54e4cb89-ac07-4946-9e76-06b36174c013</id>
+        <title type="text">– Jeg snudde meg vekk fra kassa,så ringte sjefen</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Jeg_snudde_meg_vekk_fra_kassa_s%C3%A5_ringte_sjefen?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=54e4cb89-ac07-4946-9e76-06b36174c013&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Jeg_snudde_meg_vekk_fra_kassa_s%C3%A5_ringte_sjefen/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/54e4cb89-ac07-4946-9e76-06b36174c013/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/54e4cb89-ac07-4946-9e76-06b36174c013?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/54e4cb89-ac07-4946-9e76-06b36174c013?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:37+02:00</published>
+        <updated>2015-07-20T15:21:37+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-mec0d961&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=261,54,1516,881;w=308;h=179;62896.jpg&quot; alt=&quot;Linn Hvattum har opplevd å bli overvåket av sjefen mens hun jobbet. FOTO: JAARVIK/RIISE / NRK&quot; title=&quot;Foto:  JAARVIK/RIISE / NRK &quot; width=&quot;308&quot; height=&quot;179&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948&quot;&gt;– Jeg snudde meg&lt;br&gt; &lt;span style=&quot;font-size: 42px;&quot;&gt;vekk fra kassa,&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 41px;&quot;&gt;så ringte sjefen&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Sommervikarer blir ulovlig overvåket.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Jeg snudde meg vekk fra kassa, så ringte sjefen Sommervikarer blir ulovlig overvåket. http://www.nrk.no/norge/_-sommervikarer-blir-overvaket-av-sjefen-1.12462948 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/%C3%85pner_igjen_etter_50_%C3%A5rs_brudd" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-a58ffedb-2354-4487-848e-8030cc82a974</id>
+        <title type="text">Åpner igjen etter 50 års brudd</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/%C3%85pner_igjen_etter_50_%C3%A5rs_brudd?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=a58ffedb-2354-4487-848e-8030cc82a974&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/%C3%85pner_igjen_etter_50_%C3%A5rs_brudd/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/a58ffedb-2354-4487-848e-8030cc82a974/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/a58ffedb-2354-4487-848e-8030cc82a974?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/a58ffedb-2354-4487-848e-8030cc82a974?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:37+02:00</published>
+        <updated>2015-07-20T15:21:37+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-e33ab890&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099&quot;&gt;&lt;img alt=&quot;Cubansk flagg foran i Havana&quot; src=&quot;http://gfx.nrk.no/front/2015/07/20/c=0,80,600,316;w=308;h=162;62935.jpg&quot; width=&quot;308&quot; height=&quot;162&quot; title=&quot;Foto: ALEXANDRE MENEGHINI / Reuters &quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099&quot;&gt;Åpner igjen etter &lt;br&gt;&lt;span style=&quot;font-size: 49px;&quot;&gt;50 års brudd&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Cubas og USAs ambassader.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Åpner igjen etter 50 års brudd Cubas og USAs ambassader. http://www.nrk.no/verden/usa-og-cuba-apner-ambassader-etter-50-ars-brudd-1.12464099 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Sykkelsporten_er_ikke_ville_vesten" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-15830a94-561d-4ae6-8e84-82065ec9b055</id>
+        <title type="text">– Sykkelsporten er ikke«ville vesten»</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Sykkelsporten_er_ikke_ville_vesten?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=15830a94-561d-4ae6-8e84-82065ec9b055&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Sykkelsporten_er_ikke_ville_vesten/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/15830a94-561d-4ae6-8e84-82065ec9b055/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/15830a94-561d-4ae6-8e84-82065ec9b055?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/15830a94-561d-4ae6-8e84-82065ec9b055?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:36+02:00</published>
+        <updated>2015-07-20T15:21:36+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d490f56c&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084&quot;&gt;&lt;img alt=&quot;Chris Froome&quot; src=&quot;http://gfx.nrk.no/front/2015/07/20/c=130,82,342,158;w=308;h=142;62931.jpg&quot; width=&quot;308&quot; height=&quot;142&quot; title=&quot;Foto: STEFANO RELLANDINI / Reuters &quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084&quot;&gt;– Sykkelsporten er ikke&lt;br&gt;&lt;span style=&quot;font-size: 46px;&quot;&gt;«ville vesten»&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Chris Froome er lei av dopingspørsmål.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Sykkelsporten er ikke «ville vesten» Chris Froome er lei av dopingspørsmål. http://www.nrk.no/sport/chris-froome-lei-dopingsporsmal-1.12464084 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Kutter_filmst%C3%B8tte_drastisk_har_90_mill_p%C3%A5_bok" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-49bff03e-0734-4180-8dc5-03076ccb5aaa</id>
+        <title type="text">Kutter filmstøtte drastisk – har 90 mill. på bok</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Kutter_filmst%C3%B8tte_drastisk_har_90_mill_p%C3%A5_bok?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=49bff03e-0734-4180-8dc5-03076ccb5aaa&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Kutter_filmst%C3%B8tte_drastisk_har_90_mill_p%C3%A5_bok/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/49bff03e-0734-4180-8dc5-03076ccb5aaa/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/49bff03e-0734-4180-8dc5-03076ccb5aaa?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/49bff03e-0734-4180-8dc5-03076ccb5aaa?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:36+02:00</published>
+        <updated>2015-07-20T15:21:36+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-e4ffdd16&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=1202,841,2140,1494;w=308;h=215;62938.jpg&quot; alt=&quot;Prisutdeling Amanda-festivalen i Haugesund (Foto: NTB Scanpix)&quot; title=&quot;Foto: NTB Scanpix &quot; width=&quot;308&quot; height=&quot;215&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586&quot;&gt;Kutter filmstøtte drastisk &lt;br&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;– har 90 mill. på bok&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Kutter filmstøtte drastisk – har 90 mill. på bok http://www.nrk.no/kultur/kutter-i-filmtiltak_-har-90-millioner-pa-bok-1.12449586 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Norge_skal_betale_3_4_milliarder_i_%C3%A5ret_til_E%C3%98S_land" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-6461cb99-679e-4ca4-9ceb-de7c19c102b3</id>
+        <title type="text">Norge skal betale 3,4 milliarder i året til EØS-land</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Norge_skal_betale_3_4_milliarder_i_%C3%A5ret_til_E%C3%98S_land?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=6461cb99-679e-4ca4-9ceb-de7c19c102b3&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Norge_skal_betale_3_4_milliarder_i_%C3%A5ret_til_E%C3%98S_land/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/6461cb99-679e-4ca4-9ceb-de7c19c102b3/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/6461cb99-679e-4ca4-9ceb-de7c19c102b3?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/6461cb99-679e-4ca4-9ceb-de7c19c102b3?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:36+02:00</published>
+        <updated>2015-07-20T15:21:36+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d1a17606&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=39,18,922,539;w=308;h=180;62949.jpg&quot; alt=&quot; &quot; title=&quot;Foto: PEDERSEN, TERJE / NTB SCANPIX &quot; width=&quot;308&quot; height=&quot;180&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135&quot;&gt;Norge skal betale 3,4 milliarder &lt;br&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;i året til EØS-land&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Norge skal betale 3,4 milliarder i året til EØS-land http://www.nrk.no/norge/endelig-enighet-om-eos-midlene-1.12464135 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Infokampanjar_er_bortkasta_pengar" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-3fd29a78-c7ae-47e1-b278-1d4ccccba8ca</id>
+        <title type="text">– Infokampanjar er bortkasta pengar</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Infokampanjar_er_bortkasta_pengar?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=3fd29a78-c7ae-47e1-b278-1d4ccccba8ca&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Infokampanjar_er_bortkasta_pengar/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/3fd29a78-c7ae-47e1-b278-1d4ccccba8ca/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/3fd29a78-c7ae-47e1-b278-1d4ccccba8ca?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/3fd29a78-c7ae-47e1-b278-1d4ccccba8ca?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:35+02:00</published>
+        <updated>2015-07-20T15:21:35+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-dc37bc0b&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=523,1090,1354,659;w=308;h=150;62934.jpg&quot; alt=&quot;Hugs bilbelte-skilt (Foto: Statens vegvesen)&quot; title=&quot;Foto: Foto: Statens vegvesen &quot; width=&quot;308&quot; height=&quot;150&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890&quot;&gt;– Infokampanjar er &lt;br&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;bortkasta pengar&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  – Infokampanjar er bortkasta pengar http://www.nrk.no/norge/infokampanjar-verkar-ikkje-1.12450890 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Haiar_gjekk_til_angrep_p%C3%A5_surfeverdsmeister" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-d2433992-2329-4e2d-85d4-3b7621f51eb8</id>
+        <title type="text">Haiar gjekk til angrep på surfeverdsmeister</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Haiar_gjekk_til_angrep_p%C3%A5_surfeverdsmeister?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=d2433992-2329-4e2d-85d4-3b7621f51eb8&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Haiar_gjekk_til_angrep_p%C3%A5_surfeverdsmeister/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/d2433992-2329-4e2d-85d4-3b7621f51eb8/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/d2433992-2329-4e2d-85d4-3b7621f51eb8?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/d2433992-2329-4e2d-85d4-3b7621f51eb8?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:35+02:00</published>
+        <updated>2015-07-20T15:21:35+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-k93e895d&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container df-img-skin-Se-Video&quot; style=&quot;width: 640px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/19/c=236,185,479,155;w=638;h=206;62872.jpg&quot; alt=&quot;Eit haiangrep stansa i dag VM-turneen i surfing i Jeffreys Bay i Sør-Afrika. Australske Mick Fanning kom seg så vidt unna då to digre haiar gjekk til angrep under finalen.&quot; title=&quot;Foto:  &quot; width=&quot;638&quot; height=&quot;206&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 61px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&quot;&gt;&lt;span style=&quot;font-size: 62px;&quot;&gt;Haiar gjekk til&lt;/span&gt; angrep &lt;br&gt;på surfeverdsmeister&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Haiar gjekk til angrep på surfeverdsmeister http://www.nrk.no/verden/her-gar-haiane-til-angrep-pa-verdsmeisteren-1.12463696 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Fiskebruk_i_brann_i_Lofoten" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-d9434e15-3ce2-4c34-a238-e32842f91a65</id>
+        <title type="text">Fiskebruk i brann i Lofoten</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Fiskebruk_i_brann_i_Lofoten?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=d9434e15-3ce2-4c34-a238-e32842f91a65&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Fiskebruk_i_brann_i_Lofoten/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/d9434e15-3ce2-4c34-a238-e32842f91a65/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/d9434e15-3ce2-4c34-a238-e32842f91a65?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/d9434e15-3ce2-4c34-a238-e32842f91a65?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:35+02:00</published>
+        <updated>2015-07-20T15:21:35+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-n2be66e6&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=0,23,1000,370;w=308;h=114;62939.jpg&quot; alt=&quot; &quot; title=&quot;Foto: 03030-TIPSER &quot; width=&quot;308&quot; height=&quot;114&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164&quot;&gt;Fiskebruk i brann &lt;span style=&quot;font-size: 71px;&quot;&gt;i Lofoten&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Fiskebruk i brann i Lofoten http://www.nrk.no/nordland/stor-brann-i-fiskebruk-i-lofoten-1.12464164 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Tre_ten%C3%A5ringar_sikta_i_valdtektssak" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-5f4efa9d-6bcd-41a9-b259-17364e1b7b69</id>
+        <title type="text">Tre tenåringar sikta i valdtektssak</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Tre_ten%C3%A5ringar_sikta_i_valdtektssak?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=5f4efa9d-6bcd-41a9-b259-17364e1b7b69&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Tre_ten%C3%A5ringar_sikta_i_valdtektssak/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/5f4efa9d-6bcd-41a9-b259-17364e1b7b69/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/5f4efa9d-6bcd-41a9-b259-17364e1b7b69?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/5f4efa9d-6bcd-41a9-b259-17364e1b7b69?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:34+02:00</published>
+        <updated>2015-07-20T15:21:34+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d31a8958&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container top&quot; style=&quot;width: 420px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=36,129,759,254;w=418;h=140;62941.jpg&quot; alt=&quot; &quot; title=&quot;Foto: ØYSTEIN TORHEIM / NRK &quot; width=&quot;418&quot; height=&quot;140&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;a href=&quot;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&quot;&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;Tre tenåringar sikta &lt;br&gt;&lt;span style=&quot;font-size: 62px;&quot;&gt;i &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 62px;&quot;&gt;valdtektssak&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+            &lt;p&gt;&lt;span&gt;– Alle sikta for seksuell omgang med barn under 16 år&lt;/span&gt;.&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&quot;&gt;Les saka&lt;/a&gt; | &lt;img alt=&quot; &quot; src=&quot;http://gfx.nrk.no/front/snippets/bullet-18x18.png&quot;&gt;&lt;/img&gt; &lt;a href=&quot;http://www.nrk.no/sognogfjordane/ein-er-sett-fri-_-alle-tre-er-framleis-sikta-i-valdtektssaka-1.12464392&quot;&gt;Ein satt fri – alle framleis sikta&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Tre tenåringar sikta i  valdtektssak – Alle sikta for seksuell omgang med barn under 16 år . Les saka |    Ein satt fri – alle framleis sikta http://www.nrk.no/sognogfjordane/tre-personar-sikta-etter-valdtekt-1.12464067 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/De_dyreste_mislykkes_ofte" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-71a8c63c-aa09-4a7d-be05-b087a6afc21b</id>
+        <title type="text">De dyreste mislykkes ofte</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/De_dyreste_mislykkes_ofte?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=71a8c63c-aa09-4a7d-be05-b087a6afc21b&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/De_dyreste_mislykkes_ofte/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/71a8c63c-aa09-4a7d-be05-b087a6afc21b/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/71a8c63c-aa09-4a7d-be05-b087a6afc21b?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/71a8c63c-aa09-4a7d-be05-b087a6afc21b?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:34+02:00</published>
+        <updated>2015-07-20T15:21:34+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-s35e7a4f&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 200px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=248,22,481,544;w=198;h=224;62942.jpg&quot; alt=&quot; &quot; title=&quot;Foto: ANDREW YATES / REUTERS &quot; width=&quot;198&quot; height=&quot;224&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;De dyreste&lt;/span&gt; mislykkes ofte&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  De dyreste mislykkes ofte http://www.nrk.no/sport/fotball/sterling-ma-passe-seg-for-rekordkjopfelle-1.12464169 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Frykter_at_tyver_utnytter_sommervikarer" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-abc21074-5a7e-4926-9fb8-e892a71d223f</id>
+        <title type="text">Frykter at tyver utnytter sommervikarer</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Frykter_at_tyver_utnytter_sommervikarer?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=abc21074-5a7e-4926-9fb8-e892a71d223f&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Frykter_at_tyver_utnytter_sommervikarer/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/abc21074-5a7e-4926-9fb8-e892a71d223f/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/abc21074-5a7e-4926-9fb8-e892a71d223f?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/abc21074-5a7e-4926-9fb8-e892a71d223f?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:33+02:00</published>
+        <updated>2015-07-20T15:21:33+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-d7bca4dd&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=97,0,856,411;w=308;h=148;62945.jpg&quot; alt=&quot; &quot; title=&quot;Foto: MERETHE ÅSEGÅRD / NRK &quot; width=&quot;308&quot; height=&quot;148&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652&quot;&gt;Frykter at tyver utnytter &lt;span style=&quot;font-size: 42px;&quot;&gt;sommervikarer&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Frykter at tyver utnytter sommervikarer http://www.nrk.no/buskerud/tyver-utnytter-sommervikarene-og-nasker-lettere-1.12457652 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Bortf%C3%B8rte_fire_sauer_og_fraktet_dem_%C3%A5tte_mil" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-c61c51b0-7fc1-441b-b74b-35dc2b35b3bd</id>
+        <title type="text">Bortførte fire sauer og fraktet dem åtte mil</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Bortf%C3%B8rte_fire_sauer_og_fraktet_dem_%C3%A5tte_mil?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=c61c51b0-7fc1-441b-b74b-35dc2b35b3bd&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Bortf%C3%B8rte_fire_sauer_og_fraktet_dem_%C3%A5tte_mil/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/c61c51b0-7fc1-441b-b74b-35dc2b35b3bd/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/c61c51b0-7fc1-441b-b74b-35dc2b35b3bd?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/c61c51b0-7fc1-441b-b74b-35dc2b35b3bd?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:33+02:00</published>
+        <updated>2015-07-20T15:21:33+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-f73d7aba&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 640px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=0,218,1000,172;w=638;h=110;62947.jpg&quot; alt=&quot; &quot; title=&quot;Foto: JAN HAUGEN &quot; width=&quot;638&quot; height=&quot;110&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074&quot;&gt;Bortførte fire sauer og &lt;span style=&quot;font-size: 68px;&quot;&gt;fraktet dem åtte mil&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Politiet: – En veldig sjelden sak. &lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Bortførte fire sauer og fraktet dem åtte mil Politiet: – En veldig sjelden sak.  http://www.nrk.no/ho/bortforte-sauer-atte-mil-unna-beite-1.12464074 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Bil_med_%C3%A5tte_om_bord_trillet_utfor_bryggekant" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-e1abe979-4b90-4c7c-8019-875a762b1249</id>
+        <title type="text">Bil med åtte om bord trillet utfor bryggekant</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Bil_med_%C3%A5tte_om_bord_trillet_utfor_bryggekant?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=e1abe979-4b90-4c7c-8019-875a762b1249&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Bil_med_%C3%A5tte_om_bord_trillet_utfor_bryggekant/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/e1abe979-4b90-4c7c-8019-875a762b1249/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/e1abe979-4b90-4c7c-8019-875a762b1249?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/e1abe979-4b90-4c7c-8019-875a762b1249?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:33+02:00</published>
+        <updated>2015-07-20T15:21:33+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-f87eeace&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container top&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=0,198,837,364;w=308;h=134;62954.jpg&quot; alt=&quot; &quot; title=&quot;Foto: tipser &quot; width=&quot;308&quot; height=&quot;134&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Bil med åtte om bord&lt;/span&gt; trillet utfor bryggekant&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;I Lofoten.&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Bil med åtte om bord trillet utfor bryggekant I Lofoten. http://www.nrk.no/nordland/bil-har-kjort-pa-havet-i-lofoten-1.12464314 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Grekerne_f%C3%A5r_ta_ut_mer_penger" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-545d828a-59f9-4ee2-b5b1-04cc9e8a5db8</id>
+        <title type="text">Grekerne får ta ut mer penger</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Grekerne_f%C3%A5r_ta_ut_mer_penger?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=545d828a-59f9-4ee2-b5b1-04cc9e8a5db8&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Grekerne_f%C3%A5r_ta_ut_mer_penger/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/545d828a-59f9-4ee2-b5b1-04cc9e8a5db8/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/545d828a-59f9-4ee2-b5b1-04cc9e8a5db8?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/545d828a-59f9-4ee2-b5b1-04cc9e8a5db8?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:32+02:00</published>
+        <updated>2015-07-20T15:21:32+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-r3d139e4&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 200px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=170,19,460,547;w=198;h=235;62948.jpg&quot; alt=&quot; &quot; title=&quot;Foto: THANASSIS STAVRAKIS / AP &quot; width=&quot;198&quot; height=&quot;235&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177&quot;&gt;Grekerne får ta &lt;span style=&quot;font-size: 28px;&quot;&gt;ut mer penger&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;Bankene åpnet igjen. &lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Grekerne får ta ut mer penger Bankene åpnet igjen.  http://www.nrk.no/verden/na-kan-grekere-ta-ut-mer-penger-per-dag-1.12464177 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Kan_vinne_British_Open_snytes_for_15_mill" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-74431241-0fc9-4a10-96dc-213c73c86866</id>
+        <title type="text">Kan vinne British Open– snytes for 15 mill.</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Kan_vinne_British_Open_snytes_for_15_mill?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=74431241-0fc9-4a10-96dc-213c73c86866&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Kan_vinne_British_Open_snytes_for_15_mill/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/74431241-0fc9-4a10-96dc-213c73c86866/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/74431241-0fc9-4a10-96dc-213c73c86866?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/74431241-0fc9-4a10-96dc-213c73c86866?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:32+02:00</published>
+        <updated>2015-07-20T15:21:32+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-h0dbd477&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=293,56,639,508;w=308;h=245;62955.jpg&quot; alt=&quot; &quot; title=&quot;Foto:  JON SUPER / AP &quot; width=&quot;308&quot; height=&quot;245&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;div class=&quot;WordSection1&quot;&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258&quot;&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;Kan vinne British Open&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 32px; line-height: 1.1em;&quot;&gt;– snytes for 15 mill.&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+            &lt;p&gt;22-årig amatør.&lt;/p&gt;
+            &lt;/div&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Kan vinne British Open – snytes for 15 mill. 22-årig amatør. http://www.nrk.no/sport/paul-dunne-leder-the-open---kan-glemme-pengepremien-1.12464258 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/20_millioner_p%C3%A5_flukt_etter_naturkatastrofer" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-bce4044f-2572-43a6-9467-d69d4c8f0add</id>
+        <title type="text">20 millioner på flukt etter naturkatastrofer</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/20_millioner_p%C3%A5_flukt_etter_naturkatastrofer?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=bce4044f-2572-43a6-9467-d69d4c8f0add&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/20_millioner_p%C3%A5_flukt_etter_naturkatastrofer/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/bce4044f-2572-43a6-9467-d69d4c8f0add/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/bce4044f-2572-43a6-9467-d69d4c8f0add?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/bce4044f-2572-43a6-9467-d69d4c8f0add?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:32+02:00</published>
+        <updated>2015-07-20T15:21:32+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-cefc6031&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 310px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=278,120,658,568;w=308;h=266;62951.jpg&quot; alt=&quot; &quot; title=&quot;Foto: NTB/SCANPIX &quot; width=&quot;308&quot; height=&quot;266&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;a href=&quot;http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;20 millioner på flukt &lt;/span&gt;etter naturkatastrofer&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726&quot; itemprop=&quot;wsUrl&quot;&gt;http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  20 millioner på flukt etter naturkatastrofer http://nrk.no/verden/naer-20-millioner-fordrevet-av-naturkatastrofer-1.12460726 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/Svimer_av_midt_under_styrkel%C3%B8ftet" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-38ea34f7-7af5-4d24-951f-9264704e1845</id>
+        <title type="text">Svimer av midt under styrkeløftet</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/Svimer_av_midt_under_styrkel%C3%B8ftet?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=38ea34f7-7af5-4d24-951f-9264704e1845&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/Svimer_av_midt_under_styrkel%C3%B8ftet/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/38ea34f7-7af5-4d24-951f-9264704e1845/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/38ea34f7-7af5-4d24-951f-9264704e1845?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/38ea34f7-7af5-4d24-951f-9264704e1845?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:31+02:00</published>
+        <updated>2015-07-20T15:21:31+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-n9deb6e6&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container df-img-skin-Bildegalleri&quot; style=&quot;width: 640px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=115,266,1162,554;w=638;h=304;62974.jpg&quot; alt=&quot;Genesis Rodriguez Gomez svimer av midt i et styrkeløft. Foto: Rebecca Blackwell / AP&quot; title=&quot;Foto: Rebecca Blackwell / AP &quot; width=&quot;638&quot; height=&quot;304&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;a href=&quot;http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined&quot;&gt;&lt;span style=&quot;font-size: 61px;&quot;&gt;Svimer av midt under &lt;br&gt;&lt;span style=&quot;font-size: 115px;&quot;&gt;styrkeløftet&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+            &lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot; &quot; src=&quot;http://gfx.nrk.no/front/snippets/pictures-alt-2-16x16b.1.png&quot;&gt;&lt;/img&gt; &lt;a href=&quot;http://www.nrk.no/verden/verden-i-bilder-1.12384465&quot;&gt;Se ukas beste bilder&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  Svimer av midt under styrkeløftet   Se ukas beste bilder http://www.nrk.no/verden/verden-i-bilder-1.12384465?index=0#undefined Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+    <entry xml:base="https://teamup.item.no/blogs/tomtime/entry/99_97_prosent_stemte_p%C3%A5_ein_kandidat" xml:lang="en-US" >
+        <id>urn:lsid:ibm.com:blogs:entry-af743077-7728-4a81-8434-80c5771a3e1f</id>
+        <title type="text">99,97 prosent stemte på ein kandidat</title>
+        <author>
+            <name>Tom Arild Jakobsen</name>
+            <email>tom@item.no</email>
+            <snx:userid>79B4725A-C0F0-05D3-C125-79AC00413594</snx:userid>
+            <snx:userState>active</snx:userState>
+            <snx:isExternal>false</snx:isExternal>
+        </author>
+        <link rel="alternate" type="text/html" href="https://teamup.item.no/blogs/tomtime/entry/99_97_prosent_stemte_p%C3%A5_ein_kandidat?lang=en"/>
+        <link rel="self" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entry/atom?entryid=af743077-7728-4a81-8434-80c5771a3e1f&amp;lang=en"/>
+        <link rel="replies" type="application/atom+xml" href="https://teamup.item.no/blogs/tomtime/feed/entrycomments/99_97_prosent_stemte_p%C3%A5_ein_kandidat/atom?lang=en" thr:count="0"/>
+        <link rel="http://www.ibm.com/xmlns/prod/sn/recommendations" href="https://teamup.item.no/blogs/tomtime/feed/entryrecommendations/af743077-7728-4a81-8434-80c5771a3e1f/atom?lang=en"/>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/entrycomments/af743077-7728-4a81-8434-80c5771a3e1f?lang=en">
+            <title type="text">Comment Entries</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="comments" />
+            <app:categories fixed="yes"/>
+            <app:accept>application/atom+xml;type=entry</app:accept>
+        </app:collection>
+        <app:collection href="https://teamup.item.no/blogs/tomtime/api/recommend/entries/af743077-7728-4a81-8434-80c5771a3e1f?lang=en">
+            <title type="text">Likes</title>
+            <category scheme="http://www.ibm.com/xmlns/prod/sn/collection" term="recommend" />
+            <app:categories fixed="yes"/>
+            <snx:enabled>true</snx:enabled>
+        </app:collection>
+        <published>2015-07-20T15:21:31+02:00</published>
+        <updated>2015-07-20T15:21:31+02:00</updated>
+        <content type="html">
+
+            &lt;div&gt;
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/BlogPosting&quot; itemid=&quot;df-7-sd318666&quot;&gt;
+            &lt;div itemprop=&quot;description&quot;&gt;&lt;span class=&quot;df-img-container&quot; style=&quot;width: 420px;&quot;&gt;&lt;span class=&quot;df-img-container-inner&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158&quot;&gt;&lt;img src=&quot;http://gfx.nrk.no/front/2015/07/20/c=0,0,650,334;w=418;h=215;62944.jpg&quot; alt=&quot; &quot; title=&quot;Foto:  KCNA / REUTERS &quot; width=&quot;418&quot; height=&quot;215&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;span class=&quot;df-img-layer&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;h3&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;a href=&quot;http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158&quot;&gt;&lt;span style=&quot;font-size: 41px;&quot;&gt;99,97 prosent stemte&lt;/span&gt; &lt;span style=&quot;font-size: 56px;&quot;&gt;på ein kandidat&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
+
+            &lt;a href=&quot;http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158&quot; itemprop=&quot;wsUrl&quot;&gt;http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;div itemscope=&quot;itemscope&quot; itemtype=&quot;https://schema.org/Blog&quot; itemid=&quot;&quot;&gt;
+            &lt;link itemprop=&quot;wsUrl&quot; href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot;&gt;&lt;/link&gt;
+            Kilde: &lt;a href=&quot;http://nrk.no/drfront/rss/toppsaker.rss&quot; itemprop=&quot;name&quot;&gt;NRK - NRK&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;</content>
+        <summary type="html">  99,97 prosent stemte på ein kandidat http://www.nrk.no/verden/99_97-prosent-stemte-pa-ein-kandidat-1.12464158 Kilde: NRK - NRK</summary>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/recommendations">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/comment">0</snx:rank>
+        <snx:rank scheme="http://www.ibm.com/xmlns/prod/sn/hit">0</snx:rank>
+        <source>
+            <id>urn:lsid:ibm.com:blogs:entries-1da533b1-c935-4bed-9781-b9421199dcfa</id>
+            <title type="text">Toms blog</title>
+            <link type="application/atom+xml" rel="self" href="https://teamup.item.no/blogs/tomtime/feed/entries/atom?lang=en" />
+            <link type="text/html" rel="alternate" href="https://teamup.item.no/blogs/tomtime?lang=en"/>
+            <updated>2015-07-20T15:21:41+02:00</updated>
+            <category term="blog" scheme="http://www.ibm.com/xmlns/prod/sn/type" />
+        </source>
+    </entry>
+</feed>
