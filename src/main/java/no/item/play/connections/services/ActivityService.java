@@ -4,11 +4,11 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.google.inject.name.Named;
 import com.nerdforge.xml.parsers.ArrayParser;
 import no.item.play.connections.annotations.ServerUrl;
+import no.item.play.connections.clients.ConnectionsUtil;
 import no.item.play.connections.clients.ConnectionsWSClient;
-import no.item.play.connections.models.Article;
+import no.item.play.connections.clients.ConnectionsWSRequest;
 import no.item.play.connections.models.Atom;
-import no.item.play.connections.models.Todo;
-import play.libs.F.Promise;
+import play.libs.ws.WSRequest;
 
 import javax.inject.Inject;
 import java.util.List;
@@ -19,19 +19,22 @@ public class ActivityService extends AbstractService {
     private ArrayParser parser;
 
     @Inject
-    public ActivityService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("activites") ArrayParser parser){
+    public ActivityService(ConnectionsWSClient client, @ServerUrl String serverUrl, @Named("atoms") ArrayParser parser){
         this.client = client;
         this.serverUrl = serverUrl;
         this.parser = parser;
     }
 
-    public Promise<List<Todo>> todos(){
-        return client.url(serverUrl, PATH_CONNECTIONS_ACTIVITIES, "/service/atom2/todos").get()
-                .map(validateAndParseArray(parser));
+    public ConnectionsWSRequest<List<Atom>> todos(){
+        WSRequest request = client.url(serverUrl, PATH_CONNECTIONS_ACTIVITIES, "/service/atom2/todos");
+        return ConnectionsUtil.builder(request, parser, typeref());
+
+        /*return client.url(serverUrl, PATH_CONNECTIONS_ACTIVITIES, "/service/atom2/todos").get()
+                .map(validateAndParseArray(parser));*/
     }
 
     @Override
-    protected TypeReference<List<Todo>> typeref(){
-        return new TypeReference<List<Todo>>() {};
+    protected TypeReference<List<Atom>> typeref(){
+        return new TypeReference<List<Atom>>() {};
     }
 }

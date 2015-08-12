@@ -13,31 +13,14 @@ public class Article {
     public final String id;
     public final String title;
     public final String summary;
-    @JsonIgnore
     public final String content;
     public final String url;
     public final LocalDateTime published;
     public final LocalDateTime updated;
-
     public final Integer hits;
     public final Integer recommendations;
     public final Integer comments;
-
     public final Optional<Person> author;
-
-    public Article(String id, String title, String summary, String content, String url) {
-        this.id = id;
-        this.title = title;
-        this.summary = summary;
-        this.content = content;
-        this.url = url;
-        this.published = LocalDateTime.now();
-        this.updated = LocalDateTime.now();
-        this.hits = 0;
-        this.recommendations = 0;
-        this.comments = 0;
-        this.author = Optional.empty();
-    }
 
     @JsonCreator
     public Article(@JsonProperty("id") String id,

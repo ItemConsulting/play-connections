@@ -11,6 +11,7 @@ import com.ibm.sbt.services.client.base.datahandlers.FieldEntry;
 import com.nerdforge.xml.ParserUtil;
 import com.nerdforge.xml.XmlJsonMapperModule;
 import com.nerdforge.xml.parsers.ArrayParser;
+import com.nerdforge.xml.parsers.ObjectParser;
 import no.item.play.connections.annotations.ServerUrl;
 import play.Configuration;
 
@@ -82,14 +83,21 @@ public class ConnectionsModule extends AbstractModule implements Constants {
     @Named("articles")
     public ArrayParser articlesParser(Injector injector){
         ParserUtil util = injector.getInstance(ParserUtil.class);
+        return util.arr("//a:entry", articleParser(injector));
+    }
 
-        return util.arr("//a:entry", util.obj()
+    @Provides
+    @Named("article")
+    public ObjectParser articleParser(Injector injector){
+        ParserUtil util = injector.getInstance(ParserUtil.class);
+
+        return util.obj()
             .attribute("id", "a:id")
             .attribute("title", "a:title")
             .attribute("author", "a:author", util.obj()
-                .attribute("id", "snx:userid")
-                .attribute("name", "a:name")
-                .attribute("email", "a:email")
+                            .attribute("id", "snx:userid")
+                            .attribute("name", "a:name")
+                            .attribute("email", "a:email")
             )
             .attribute("summary", "a:summary")
             .attribute("content", "a:content")
@@ -98,8 +106,7 @@ public class ConnectionsModule extends AbstractModule implements Constants {
             .attribute("url", "a:link[@rel='self']/@href")
             .attribute("hits", xpathRank("hit"), util.with(Integer::parseInt))
             .attribute("recommendations", xpathRank("recommendations"), util.with(Integer::parseInt))
-            .attribute("comments", xpathRank("comment"), util.with(Integer::parseInt))
-        );
+            .attribute("comments", xpathRank("comment"), util.with(Integer::parseInt)).build();
     }
 
     @Provides
